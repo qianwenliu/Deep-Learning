@@ -1,0 +1,362 @@
+Sample image grid saved to /Plots with classes:
+water, grassland, water, barren land, barren land, barren land, barren land, trees, barren land, water, building, trees, grassland, trees, water, trees, grassland, barren land, barren land, grassland, barren land, water, water, barren land, trees, barren land, barren land, barren land, barren land, water, grassland, barren land, water, water, grassland, water, trees, water, barren land, water, water, water, barren land, trees, barren land, water, barren land, grassland, barren land, grassland, water, water, water, grassland, water, grassland, trees, grassland, water, water, water, barren land, trees, barren land, water, water, trees, trees, water, water, barren land, barren land, barren land, water, barren land, water, grassland, water, building, building, water, trees, water, water, water, building, trees, road, barren land, barren land, trees, water, grassland, water, building, barren land, barren land, building, barren land, water
+NETWORK PARAMETERS:
+Batch size: 100
+Epochs: 10
+Learning rate: 0.001000
+Input channels: 4
+Input dimensions: 28
+Conv kernel size: 4    
+NETWORK CONFIGURATION:
+0 -> SimpleCNN (
+  (conv1): Conv2d(4, 8, kernel_size=(4, 4), stride=(1, 1))
+  (pool): MaxPool2d (size=(3, 3), stride=(2, 2), dilation=(1, 1))
+  (fc1): Linear (1152 -> 6)
+)
+1 -> Conv2d(4, 8, kernel_size=(4, 4), stride=(1, 1))
+2 -> MaxPool2d (size=(3, 3), stride=(2, 2), dilation=(1, 1))
+3 -> Linear (1152 -> 6)
+Training loss at epoch 1 of 10, step 100 of 3240: 1.6930
+Training loss at epoch 1 of 10, step 200 of 3240: 1.4675
+Training loss at epoch 1 of 10, step 300 of 3240: 1.3395
+Training loss at epoch 1 of 10, step 400 of 3240: 1.2147
+Training loss at epoch 1 of 10, step 500 of 3240: 0.9840
+Training loss at epoch 1 of 10, step 600 of 3240: 0.9211
+Training loss at epoch 1 of 10, step 700 of 3240: 0.9623
+Training loss at epoch 1 of 10, step 800 of 3240: 0.9434
+Training loss at epoch 1 of 10, step 900 of 3240: 0.8529
+Training loss at epoch 1 of 10, step 1000 of 3240: 0.7639
+Training loss at epoch 1 of 10, step 1100 of 3240: 0.7946
+Training loss at epoch 1 of 10, step 1200 of 3240: 0.7359
+Training loss at epoch 1 of 10, step 1300 of 3240: 0.7059
+Training loss at epoch 1 of 10, step 1400 of 3240: 0.6670
+Training loss at epoch 1 of 10, step 1500 of 3240: 0.6896
+Training loss at epoch 1 of 10, step 1600 of 3240: 0.6573
+Training loss at epoch 1 of 10, step 1700 of 3240: 0.6300
+Training loss at epoch 1 of 10, step 1800 of 3240: 0.7132
+Training loss at epoch 1 of 10, step 1900 of 3240: 0.6441
+Training loss at epoch 1 of 10, step 2000 of 3240: 0.6058
+Training loss at epoch 1 of 10, step 2100 of 3240: 0.5921
+Training loss at epoch 1 of 10, step 2200 of 3240: 0.5580
+Training loss at epoch 1 of 10, step 2300 of 3240: 0.6337
+Training loss at epoch 1 of 10, step 2400 of 3240: 0.6307
+Training loss at epoch 1 of 10, step 2500 of 3240: 0.6783
+Training loss at epoch 1 of 10, step 2600 of 3240: 0.3626
+Training loss at epoch 1 of 10, step 2700 of 3240: 0.5543
+Training loss at epoch 1 of 10, step 2800 of 3240: 0.4890
+Training loss at epoch 1 of 10, step 2900 of 3240: 0.4131
+Training loss at epoch 1 of 10, step 3000 of 3240: 0.4505
+Training loss at epoch 1 of 10, step 3100 of 3240: 0.4694
+Training loss at epoch 1 of 10, step 3200 of 3240: 0.4596
+Accuracy of network on test set at epoch 1 of 10: 68047/81000 = 84.01%
+Training loss at epoch 2 of 10, step 100 of 3240: 0.3897
+Training loss at epoch 2 of 10, step 200 of 3240: 0.4775
+Training loss at epoch 2 of 10, step 300 of 3240: 0.4648
+Training loss at epoch 2 of 10, step 400 of 3240: 0.4663
+Training loss at epoch 2 of 10, step 500 of 3240: 0.3825
+Training loss at epoch 2 of 10, step 600 of 3240: 0.4369
+Training loss at epoch 2 of 10, step 700 of 3240: 0.3845
+Training loss at epoch 2 of 10, step 800 of 3240: 0.3622
+Training loss at epoch 2 of 10, step 900 of 3240: 0.4022
+Training loss at epoch 2 of 10, step 1000 of 3240: 0.4309
+Training loss at epoch 2 of 10, step 1100 of 3240: 0.4406
+Training loss at epoch 2 of 10, step 1200 of 3240: 0.3941
+Training loss at epoch 2 of 10, step 1300 of 3240: 0.4029
+Training loss at epoch 2 of 10, step 1400 of 3240: 0.3728
+Training loss at epoch 2 of 10, step 1500 of 3240: 0.4342
+Training loss at epoch 2 of 10, step 1600 of 3240: 0.4747
+Training loss at epoch 2 of 10, step 1700 of 3240: 0.3567
+Training loss at epoch 2 of 10, step 1800 of 3240: 0.3700
+Training loss at epoch 2 of 10, step 1900 of 3240: 0.3583
+Training loss at epoch 2 of 10, step 2000 of 3240: 0.4556
+Training loss at epoch 2 of 10, step 2100 of 3240: 0.3890
+Training loss at epoch 2 of 10, step 2200 of 3240: 0.3513
+Training loss at epoch 2 of 10, step 2300 of 3240: 0.3581
+Training loss at epoch 2 of 10, step 2400 of 3240: 0.3163
+Training loss at epoch 2 of 10, step 2500 of 3240: 0.4007
+Training loss at epoch 2 of 10, step 2600 of 3240: 0.3906
+Training loss at epoch 2 of 10, step 2700 of 3240: 0.3282
+Training loss at epoch 2 of 10, step 2800 of 3240: 0.3153
+Training loss at epoch 2 of 10, step 2900 of 3240: 0.3957
+Training loss at epoch 2 of 10, step 3000 of 3240: 0.4139
+Training loss at epoch 2 of 10, step 3100 of 3240: 0.3318
+Training loss at epoch 2 of 10, step 3200 of 3240: 0.3894
+Accuracy of network on test set at epoch 2 of 10: 72155/81000 = 89.08%
+Training loss at epoch 3 of 10, step 100 of 3240: 0.2932
+Training loss at epoch 3 of 10, step 200 of 3240: 0.4085
+Training loss at epoch 3 of 10, step 300 of 3240: 0.3069
+Training loss at epoch 3 of 10, step 400 of 3240: 0.2918
+Training loss at epoch 3 of 10, step 500 of 3240: 0.2576
+Training loss at epoch 3 of 10, step 600 of 3240: 0.3031
+Training loss at epoch 3 of 10, step 700 of 3240: 0.2659
+Training loss at epoch 3 of 10, step 800 of 3240: 0.3799
+Training loss at epoch 3 of 10, step 900 of 3240: 0.3153
+Training loss at epoch 3 of 10, step 1000 of 3240: 0.2664
+Training loss at epoch 3 of 10, step 1100 of 3240: 0.3193
+Training loss at epoch 3 of 10, step 1200 of 3240: 0.2406
+Training loss at epoch 3 of 10, step 1300 of 3240: 0.3643
+Training loss at epoch 3 of 10, step 1400 of 3240: 0.2245
+Training loss at epoch 3 of 10, step 1500 of 3240: 0.2064
+Training loss at epoch 3 of 10, step 1600 of 3240: 0.3241
+Training loss at epoch 3 of 10, step 1700 of 3240: 0.3213
+Training loss at epoch 3 of 10, step 1800 of 3240: 0.3076
+Training loss at epoch 3 of 10, step 1900 of 3240: 0.2549
+Training loss at epoch 3 of 10, step 2000 of 3240: 0.3018
+Training loss at epoch 3 of 10, step 2100 of 3240: 0.1962
+Training loss at epoch 3 of 10, step 2200 of 3240: 0.2877
+Training loss at epoch 3 of 10, step 2300 of 3240: 0.2048
+Training loss at epoch 3 of 10, step 2400 of 3240: 0.2231
+Training loss at epoch 3 of 10, step 2500 of 3240: 0.1892
+Training loss at epoch 3 of 10, step 2600 of 3240: 0.2303
+Training loss at epoch 3 of 10, step 2700 of 3240: 0.2580
+Training loss at epoch 3 of 10, step 2800 of 3240: 0.1902
+Training loss at epoch 3 of 10, step 2900 of 3240: 0.1760
+Training loss at epoch 3 of 10, step 3000 of 3240: 0.1788
+Training loss at epoch 3 of 10, step 3100 of 3240: 0.1952
+Training loss at epoch 3 of 10, step 3200 of 3240: 0.2451
+Accuracy of network on test set at epoch 3 of 10: 73909/81000 = 91.25%
+Training loss at epoch 4 of 10, step 100 of 3240: 0.3521
+Training loss at epoch 4 of 10, step 200 of 3240: 0.2883
+Training loss at epoch 4 of 10, step 300 of 3240: 0.2596
+Training loss at epoch 4 of 10, step 400 of 3240: 0.2119
+Training loss at epoch 4 of 10, step 500 of 3240: 0.2012
+Training loss at epoch 4 of 10, step 600 of 3240: 0.1961
+Training loss at epoch 4 of 10, step 700 of 3240: 0.1524
+Training loss at epoch 4 of 10, step 800 of 3240: 0.2465
+Training loss at epoch 4 of 10, step 900 of 3240: 0.2281
+Training loss at epoch 4 of 10, step 1000 of 3240: 0.2253
+Training loss at epoch 4 of 10, step 1100 of 3240: 0.2239
+Training loss at epoch 4 of 10, step 1200 of 3240: 0.1866
+Training loss at epoch 4 of 10, step 1300 of 3240: 0.1906
+Training loss at epoch 4 of 10, step 1400 of 3240: 0.2008
+Training loss at epoch 4 of 10, step 1500 of 3240: 0.1855
+Training loss at epoch 4 of 10, step 1600 of 3240: 0.2790
+Training loss at epoch 4 of 10, step 1700 of 3240: 0.2348
+Training loss at epoch 4 of 10, step 1800 of 3240: 0.2161
+Training loss at epoch 4 of 10, step 1900 of 3240: 0.2244
+Training loss at epoch 4 of 10, step 2000 of 3240: 0.1707
+Training loss at epoch 4 of 10, step 2100 of 3240: 0.1814
+Training loss at epoch 4 of 10, step 2200 of 3240: 0.2361
+Training loss at epoch 4 of 10, step 2300 of 3240: 0.1822
+Training loss at epoch 4 of 10, step 2400 of 3240: 0.2504
+Training loss at epoch 4 of 10, step 2500 of 3240: 0.2636
+Training loss at epoch 4 of 10, step 2600 of 3240: 0.2476
+Training loss at epoch 4 of 10, step 2700 of 3240: 0.1723
+Training loss at epoch 4 of 10, step 2800 of 3240: 0.2461
+Training loss at epoch 4 of 10, step 2900 of 3240: 0.1922
+Training loss at epoch 4 of 10, step 3000 of 3240: 0.1774
+Training loss at epoch 4 of 10, step 3100 of 3240: 0.2253
+Training loss at epoch 4 of 10, step 3200 of 3240: 0.2019
+Accuracy of network on test set at epoch 4 of 10: 75306/81000 = 92.97%
+Training loss at epoch 5 of 10, step 100 of 3240: 0.2094
+Training loss at epoch 5 of 10, step 200 of 3240: 0.2921
+Training loss at epoch 5 of 10, step 300 of 3240: 0.1493
+Training loss at epoch 5 of 10, step 400 of 3240: 0.2315
+Training loss at epoch 5 of 10, step 500 of 3240: 0.2075
+Training loss at epoch 5 of 10, step 600 of 3240: 0.2237
+Training loss at epoch 5 of 10, step 700 of 3240: 0.2402
+Training loss at epoch 5 of 10, step 800 of 3240: 0.1722
+Training loss at epoch 5 of 10, step 900 of 3240: 0.2463
+Training loss at epoch 5 of 10, step 1000 of 3240: 0.1527
+Training loss at epoch 5 of 10, step 1100 of 3240: 0.1666
+Training loss at epoch 5 of 10, step 1200 of 3240: 0.2020
+Training loss at epoch 5 of 10, step 1300 of 3240: 0.1527
+Training loss at epoch 5 of 10, step 1400 of 3240: 0.2181
+Training loss at epoch 5 of 10, step 1500 of 3240: 0.2314
+Training loss at epoch 5 of 10, step 1600 of 3240: 0.1800
+Training loss at epoch 5 of 10, step 1700 of 3240: 0.2780
+Training loss at epoch 5 of 10, step 1800 of 3240: 0.1900
+Training loss at epoch 5 of 10, step 1900 of 3240: 0.1962
+Training loss at epoch 5 of 10, step 2000 of 3240: 0.2149
+Training loss at epoch 5 of 10, step 2100 of 3240: 0.2611
+Training loss at epoch 5 of 10, step 2200 of 3240: 0.2096
+Training loss at epoch 5 of 10, step 2300 of 3240: 0.1409
+Training loss at epoch 5 of 10, step 2400 of 3240: 0.1582
+Training loss at epoch 5 of 10, step 2500 of 3240: 0.2034
+Training loss at epoch 5 of 10, step 2600 of 3240: 0.1642
+Training loss at epoch 5 of 10, step 2700 of 3240: 0.1636
+Training loss at epoch 5 of 10, step 2800 of 3240: 0.2039
+Training loss at epoch 5 of 10, step 2900 of 3240: 0.1366
+Training loss at epoch 5 of 10, step 3000 of 3240: 0.1753
+Training loss at epoch 5 of 10, step 3100 of 3240: 0.1921
+Training loss at epoch 5 of 10, step 3200 of 3240: 0.1736
+Accuracy of network on test set at epoch 5 of 10: 76150/81000 = 94.01%
+Training loss at epoch 6 of 10, step 100 of 3240: 0.1431
+Training loss at epoch 6 of 10, step 200 of 3240: 0.2143
+Training loss at epoch 6 of 10, step 300 of 3240: 0.1585
+Training loss at epoch 6 of 10, step 400 of 3240: 0.1719
+Training loss at epoch 6 of 10, step 500 of 3240: 0.1618
+Training loss at epoch 6 of 10, step 600 of 3240: 0.1436
+Training loss at epoch 6 of 10, step 700 of 3240: 0.1370
+Training loss at epoch 6 of 10, step 800 of 3240: 0.1077
+Training loss at epoch 6 of 10, step 900 of 3240: 0.1820
+Training loss at epoch 6 of 10, step 1000 of 3240: 0.1323
+Training loss at epoch 6 of 10, step 1100 of 3240: 0.1907
+Training loss at epoch 6 of 10, step 1200 of 3240: 0.2725
+Training loss at epoch 6 of 10, step 1300 of 3240: 0.1297
+Training loss at epoch 6 of 10, step 1400 of 3240: 0.1714
+Training loss at epoch 6 of 10, step 1500 of 3240: 0.1714
+Training loss at epoch 6 of 10, step 1600 of 3240: 0.2426
+Training loss at epoch 6 of 10, step 1700 of 3240: 0.1947
+Training loss at epoch 6 of 10, step 1800 of 3240: 0.0973
+Training loss at epoch 6 of 10, step 1900 of 3240: 0.2144
+Training loss at epoch 6 of 10, step 2000 of 3240: 0.1792
+Training loss at epoch 6 of 10, step 2100 of 3240: 0.1391
+Training loss at epoch 6 of 10, step 2200 of 3240: 0.1272
+Training loss at epoch 6 of 10, step 2300 of 3240: 0.1375
+Training loss at epoch 6 of 10, step 2400 of 3240: 0.2264
+Training loss at epoch 6 of 10, step 2500 of 3240: 0.1540
+Training loss at epoch 6 of 10, step 2600 of 3240: 0.1232
+Training loss at epoch 6 of 10, step 2700 of 3240: 0.0962
+Training loss at epoch 6 of 10, step 2800 of 3240: 0.1694
+Training loss at epoch 6 of 10, step 2900 of 3240: 0.2179
+Training loss at epoch 6 of 10, step 3000 of 3240: 0.2362
+Training loss at epoch 6 of 10, step 3100 of 3240: 0.1605
+Training loss at epoch 6 of 10, step 3200 of 3240: 0.1965
+Accuracy of network on test set at epoch 6 of 10: 76624/81000 = 94.60%
+Training loss at epoch 7 of 10, step 100 of 3240: 0.2218
+Training loss at epoch 7 of 10, step 200 of 3240: 0.1976
+Training loss at epoch 7 of 10, step 300 of 3240: 0.1756
+Training loss at epoch 7 of 10, step 400 of 3240: 0.1039
+Training loss at epoch 7 of 10, step 500 of 3240: 0.1101
+Training loss at epoch 7 of 10, step 600 of 3240: 0.1745
+Training loss at epoch 7 of 10, step 700 of 3240: 0.1518
+Training loss at epoch 7 of 10, step 800 of 3240: 0.1397
+Training loss at epoch 7 of 10, step 900 of 3240: 0.2370
+Training loss at epoch 7 of 10, step 1000 of 3240: 0.1321
+Training loss at epoch 7 of 10, step 1100 of 3240: 0.1593
+Training loss at epoch 7 of 10, step 1200 of 3240: 0.1532
+Training loss at epoch 7 of 10, step 1300 of 3240: 0.1270
+Training loss at epoch 7 of 10, step 1400 of 3240: 0.1920
+Training loss at epoch 7 of 10, step 1500 of 3240: 0.0805
+Training loss at epoch 7 of 10, step 1600 of 3240: 0.2681
+Training loss at epoch 7 of 10, step 1700 of 3240: 0.1134
+Training loss at epoch 7 of 10, step 1800 of 3240: 0.1637
+Training loss at epoch 7 of 10, step 1900 of 3240: 0.1210
+Training loss at epoch 7 of 10, step 2000 of 3240: 0.1781
+Training loss at epoch 7 of 10, step 2100 of 3240: 0.2079
+Training loss at epoch 7 of 10, step 2200 of 3240: 0.1313
+Training loss at epoch 7 of 10, step 2300 of 3240: 0.1209
+Training loss at epoch 7 of 10, step 2400 of 3240: 0.1837
+Training loss at epoch 7 of 10, step 2500 of 3240: 0.1044
+Training loss at epoch 7 of 10, step 2600 of 3240: 0.2372
+Training loss at epoch 7 of 10, step 2700 of 3240: 0.1704
+Training loss at epoch 7 of 10, step 2800 of 3240: 0.1515
+Training loss at epoch 7 of 10, step 2900 of 3240: 0.1610
+Training loss at epoch 7 of 10, step 3000 of 3240: 0.1927
+Training loss at epoch 7 of 10, step 3100 of 3240: 0.1650
+Training loss at epoch 7 of 10, step 3200 of 3240: 0.1257
+Accuracy of network on test set at epoch 7 of 10: 76875/81000 = 94.91%
+Training loss at epoch 8 of 10, step 100 of 3240: 0.1064
+Training loss at epoch 8 of 10, step 200 of 3240: 0.1665
+Training loss at epoch 8 of 10, step 300 of 3240: 0.2622
+Training loss at epoch 8 of 10, step 400 of 3240: 0.1556
+Training loss at epoch 8 of 10, step 500 of 3240: 0.1215
+Training loss at epoch 8 of 10, step 600 of 3240: 0.1211
+Training loss at epoch 8 of 10, step 700 of 3240: 0.1848
+Training loss at epoch 8 of 10, step 800 of 3240: 0.1348
+Training loss at epoch 8 of 10, step 900 of 3240: 0.2372
+Training loss at epoch 8 of 10, step 1000 of 3240: 0.1657
+Training loss at epoch 8 of 10, step 1100 of 3240: 0.1326
+Training loss at epoch 8 of 10, step 1200 of 3240: 0.1285
+Training loss at epoch 8 of 10, step 1300 of 3240: 0.1400
+Training loss at epoch 8 of 10, step 1400 of 3240: 0.1230
+Training loss at epoch 8 of 10, step 1500 of 3240: 0.1334
+Training loss at epoch 8 of 10, step 1600 of 3240: 0.1630
+Training loss at epoch 8 of 10, step 1700 of 3240: 0.1051
+Training loss at epoch 8 of 10, step 1800 of 3240: 0.1892
+Training loss at epoch 8 of 10, step 1900 of 3240: 0.1155
+Training loss at epoch 8 of 10, step 2000 of 3240: 0.1116
+Training loss at epoch 8 of 10, step 2100 of 3240: 0.1018
+Training loss at epoch 8 of 10, step 2200 of 3240: 0.1666
+Training loss at epoch 8 of 10, step 2300 of 3240: 0.1641
+Training loss at epoch 8 of 10, step 2400 of 3240: 0.1015
+Training loss at epoch 8 of 10, step 2500 of 3240: 0.1002
+Training loss at epoch 8 of 10, step 2600 of 3240: 0.1040
+Training loss at epoch 8 of 10, step 2700 of 3240: 0.1311
+Training loss at epoch 8 of 10, step 2800 of 3240: 0.1431
+Training loss at epoch 8 of 10, step 2900 of 3240: 0.1487
+Training loss at epoch 8 of 10, step 3000 of 3240: 0.2232
+Training loss at epoch 8 of 10, step 3100 of 3240: 0.1196
+Training loss at epoch 8 of 10, step 3200 of 3240: 0.2010
+Accuracy of network on test set at epoch 8 of 10: 77070/81000 = 95.15%
+Training loss at epoch 9 of 10, step 100 of 3240: 0.0976
+Training loss at epoch 9 of 10, step 200 of 3240: 0.1942
+Training loss at epoch 9 of 10, step 300 of 3240: 0.1711
+Training loss at epoch 9 of 10, step 400 of 3240: 0.1213
+Training loss at epoch 9 of 10, step 500 of 3240: 0.1333
+Training loss at epoch 9 of 10, step 600 of 3240: 0.0967
+Training loss at epoch 9 of 10, step 700 of 3240: 0.1327
+Training loss at epoch 9 of 10, step 800 of 3240: 0.1447
+Training loss at epoch 9 of 10, step 900 of 3240: 0.1209
+Training loss at epoch 9 of 10, step 1000 of 3240: 0.1727
+Training loss at epoch 9 of 10, step 1100 of 3240: 0.1071
+Training loss at epoch 9 of 10, step 1200 of 3240: 0.1288
+Training loss at epoch 9 of 10, step 1300 of 3240: 0.1712
+Training loss at epoch 9 of 10, step 1400 of 3240: 0.0927
+Training loss at epoch 9 of 10, step 1500 of 3240: 0.1067
+Training loss at epoch 9 of 10, step 1600 of 3240: 0.0932
+Training loss at epoch 9 of 10, step 1700 of 3240: 0.1519
+Training loss at epoch 9 of 10, step 1800 of 3240: 0.0970
+Training loss at epoch 9 of 10, step 1900 of 3240: 0.1208
+Training loss at epoch 9 of 10, step 2000 of 3240: 0.1202
+Training loss at epoch 9 of 10, step 2100 of 3240: 0.2506
+Training loss at epoch 9 of 10, step 2200 of 3240: 0.1409
+Training loss at epoch 9 of 10, step 2300 of 3240: 0.1217
+Training loss at epoch 9 of 10, step 2400 of 3240: 0.1421
+Training loss at epoch 9 of 10, step 2500 of 3240: 0.1968
+Training loss at epoch 9 of 10, step 2600 of 3240: 0.1109
+Training loss at epoch 9 of 10, step 2700 of 3240: 0.0843
+Training loss at epoch 9 of 10, step 2800 of 3240: 0.1109
+Training loss at epoch 9 of 10, step 2900 of 3240: 0.1282
+Training loss at epoch 9 of 10, step 3000 of 3240: 0.0725
+Training loss at epoch 9 of 10, step 3100 of 3240: 0.1406
+Training loss at epoch 9 of 10, step 3200 of 3240: 0.1210
+Accuracy of network on test set at epoch 9 of 10: 77135/81000 = 95.23%
+Training loss at epoch 10 of 10, step 100 of 3240: 0.1515
+Training loss at epoch 10 of 10, step 200 of 3240: 0.1276
+Training loss at epoch 10 of 10, step 300 of 3240: 0.1632
+Training loss at epoch 10 of 10, step 400 of 3240: 0.1343
+Training loss at epoch 10 of 10, step 500 of 3240: 0.1233
+Training loss at epoch 10 of 10, step 600 of 3240: 0.1625
+Training loss at epoch 10 of 10, step 700 of 3240: 0.1607
+Training loss at epoch 10 of 10, step 800 of 3240: 0.1259
+Training loss at epoch 10 of 10, step 900 of 3240: 0.1434
+Training loss at epoch 10 of 10, step 1000 of 3240: 0.0897
+Training loss at epoch 10 of 10, step 1100 of 3240: 0.1273
+Training loss at epoch 10 of 10, step 1200 of 3240: 0.1530
+Training loss at epoch 10 of 10, step 1300 of 3240: 0.1726
+Training loss at epoch 10 of 10, step 1400 of 3240: 0.1075
+Training loss at epoch 10 of 10, step 1500 of 3240: 0.1186
+Training loss at epoch 10 of 10, step 1600 of 3240: 0.1752
+Training loss at epoch 10 of 10, step 1700 of 3240: 0.0934
+Training loss at epoch 10 of 10, step 1800 of 3240: 0.1263
+Training loss at epoch 10 of 10, step 1900 of 3240: 0.1908
+Training loss at epoch 10 of 10, step 2000 of 3240: 0.1497
+Training loss at epoch 10 of 10, step 2100 of 3240: 0.1389
+Training loss at epoch 10 of 10, step 2200 of 3240: 0.0816
+Training loss at epoch 10 of 10, step 2300 of 3240: 0.1215
+Training loss at epoch 10 of 10, step 2400 of 3240: 0.1085
+Training loss at epoch 10 of 10, step 2500 of 3240: 0.1555
+Training loss at epoch 10 of 10, step 2600 of 3240: 0.1479
+Training loss at epoch 10 of 10, step 2700 of 3240: 0.1317
+Training loss at epoch 10 of 10, step 2800 of 3240: 0.1748
+Training loss at epoch 10 of 10, step 2900 of 3240: 0.1614
+Training loss at epoch 10 of 10, step 3000 of 3240: 0.2071
+Training loss at epoch 10 of 10, step 3100 of 3240: 0.1680
+Training loss at epoch 10 of 10, step 3200 of 3240: 0.1509
+Accuracy of network on test set at epoch 10 of 10: 77223/81000 = 95.34%
+Training time: 2830.2 seconds.
+Training loss plot saved in /Plots.
+Testing Accuracy plot saved in /Plots.
+             building  barren land  trees  grassland  road  water
+building         3540           11      0         15  1457      4
+barren land        58        17664      5        697     2      0
+trees              15           18  13939        297    19      0
+grassland           3          673    241      11566    32      0
+road               96            1      0         21   450      0
+water               2            0      0          0   110  30064
+Accuracy rate: 95.34%
+Misclassifcation rate: 4.66%
+Confusion matrix plot saved in /Plots.
+kernels plot saved in /Plots.

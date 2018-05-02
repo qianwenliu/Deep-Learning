@@ -1,0 +1,72 @@
+Sample image grid saved to /Plots with classes:
+barren land, grassland, trees, trees, trees, grassland, road, water, water, water, water, water, grassland, trees, water, trees, water, barren land, barren land, trees, water, barren land, barren land, barren land, water, water, trees, grassland, barren land, water, water, water, trees, water, water, trees, trees, barren land, water, barren land, barren land, water, barren land, barren land, water, trees, barren land, water, barren land, grassland, water, barren land, water, water, water, barren land, water, grassland, water, water, building, barren land, barren land, barren land, barren land, trees, water, barren land, building, trees, trees, barren land, grassland, water, trees, building, water, water, water, barren land, water, water, water, barren land, grassland, grassland, barren land, barren land, trees, water, barren land, water, water, barren land, barren land, grassland, water, trees, water, water, grassland, grassland, grassland, barren land, water, grassland, water, trees, barren land, water, water, grassland, water, barren land, barren land, grassland, grassland, water, building, water, water, water, water, trees, water, water, water, road, trees, barren land, barren land, barren land, grassland, water, trees, grassland, grassland, barren land, trees, grassland, water, water, water, trees, building, trees, road, water, trees, water, trees, water, barren land, trees, water, trees, grassland, barren land, water, water, trees, barren land, barren land, barren land, grassland, trees, trees, water, water, water, water, building, barren land, water, trees, water, water, barren land, road, barren land, barren land, road, grassland, water, building, barren land, barren land, water, water, water, grassland, grassland, water, barren land, barren land, water, water, barren land, trees, water, water, water, water, barren land, water, grassland, water, water, trees, water, barren land, barren land, barren land, trees, barren land, trees, grassland, barren land, water, barren land, water, building, water, grassland, water, barren land, barren land, road, grassland, grassland, building, water, building, water, barren land, building, road, water, road, barren land, water, barren land, trees, grassland, trees, water, water, barren land, water, trees, building, grassland, trees, barren land, water, road, barren land, water, water, grassland, barren land, barren land, barren land, trees, trees, water, water, water, building, barren land, barren land, water, grassland, trees, barren land, road, trees, grassland, water, barren land, water, trees, water, water, barren land, grassland, grassland, trees, water, water, grassland, water, water, road, water, building, barren land, barren land, barren land, grassland, water, barren land, water, water, water, water, grassland, water, grassland, barren land, water, grassland, barren land, trees, water, water, barren land, water, water, water, water, water, building, trees, road, barren land, trees, grassland, building, trees, trees, water, trees, water, trees, barren land, water, grassland, water, grassland, water, water, barren land, barren land, barren land, trees, water, water, water, water, trees, water, grassland, water, grassland, water, water, barren land, barren land, trees, barren land, barren land, barren land, grassland, barren land, water, grassland, barren land, trees, water, grassland, water, water, grassland, water, building, barren land, grassland, barren land, barren land, building, barren land, barren land, trees, water, water, water, water, building, trees, barren land, trees, barren land, barren land, water, water, water, trees, trees, building, grassland, barren land, water, trees, water, grassland, water, grassland, water, barren land, grassland, water, building, grassland, water, trees, barren land, water, grassland, water, water, trees, trees, building, water, grassland, water, trees, trees, water, barren land, barren land, barren land, trees, trees, trees, barren land, water, grassland, water, grassland, trees, grassland, building, grassland, grassland, grassland, grassland, water, barren land, water, trees, barren land, trees, trees, water, barren land, barren land, trees, barren land, barren land, grassland, barren land, barren land, grassland, water, barren land, water, trees, trees, building, grassland, grassland, trees, trees, water, trees, grassland, water, water, trees, water, grassland, barren land, water, water, grassland, trees, trees, building, grassland, trees, road, trees, water, water, barren land, barren land, trees, barren land, water, water, barren land, barren land, grassland, water, grassland, grassland, building, water, grassland, barren land, water, barren land, trees, trees, barren land, trees, water, trees, water, water, building, trees, barren land, water, grassland, trees, water, barren land, water, barren land, trees, water, trees, water, water, water, water, water, water, water, water, barren land, trees, building, barren land, trees, barren land, trees, grassland, grassland, barren land, barren land, trees, trees, barren land, water, barren land, barren land, barren land, trees, barren land, grassland, grassland, water, water, water, water, road, water, water, grassland, grassland, barren land, trees, building, water, grassland, water, water, water, barren land, grassland, grassland, road, grassland, water, grassland, trees, trees, barren land, water, trees, water, water, trees, grassland, water, trees, road, water, trees, barren land, water, water, trees, barren land, trees, trees, water, trees, water, barren land, barren land, barren land, road, grassland, trees, water, water, water, barren land, water, building, water, barren land, water, water, barren land, water, water, barren land, building, grassland, barren land, water, building, grassland, grassland, water, water, water, trees, water, trees, barren land, barren land, water, building, grassland, water, water, water, barren land, water, barren land, trees, grassland, grassland, water, road, water, trees, building, water, trees, barren land, water, water, water, water, road, trees, trees, barren land, barren land, water, trees, barren land, building, grassland, trees, trees, water, trees, trees, barren land, water, water, trees, water, water, trees, grassland, water, water, building, water, water, grassland, water, barren land, trees, barren land, barren land, water, water, water, building, water, trees, water, water, water, grassland, trees, water, grassland, building, grassland, building, water, water, road, water, barren land, water, trees, barren land, water, water, trees, water, water, water, water, trees, grassland, trees, water, barren land, trees, water, water, trees, barren land, water, water, water, barren land, barren land, barren land, barren land, grassland, barren land, water, water, trees, water, trees, barren land, road, barren land, barren land, trees, trees, barren land, grassland, road, grassland, road, grassland, water, trees, grassland, grassland, water, grassland, trees, trees, water, water, barren land, barren land, water, barren land, grassland, barren land, water, barren land, grassland, barren land, water, water, barren land, building, barren land, barren land, trees, trees, grassland, grassland, trees, barren land, water, building, trees, trees, barren land, barren land, water, trees, grassland, barren land, trees, water, grassland, barren land, water, grassland, barren land, trees, water, barren land, grassland, water, trees, barren land, trees, trees, water, trees, water, water, water, water, water, barren land, grassland, water, building, trees, trees, water, trees, water, grassland, water, barren land, barren land, barren land, water, grassland, trees, water, barren land, grassland, water, trees, trees, water, water, grassland, water, barren land, water, trees, water, water, water, barren land, trees, water, trees, barren land, water, grassland, water, barren land, grassland, water, grassland, water, trees, water, trees, water, water, building, road, barren land, barren land, trees, water, water, barren land, water, water, grassland, water, barren land, barren land, trees, water, water, water, water, trees, water, building, barren land, barren land, water, barren land, barren land, water, grassland, trees, water, water, grassland, water, building, barren land, water, trees, water, water, barren land, barren land, grassland, barren land, water, water, water, trees, grassland, trees, barren land, grassland, barren land, water, barren land, barren land, water, water, grassland, grassland, barren land, water, water, water, building, building, water, building, water, water, trees, barren land, trees, grassland, water, barren land, grassland, water, grassland, trees, grassland, water, barren land, building, grassland, road, water, water, barren land, building, water, grassland, trees, water, water, barren land, water, water, trees, barren land, grassland, grassland, trees, grassland, water, grassland, water, water, building, water, water
+NETWORK PARAMETERS:
+Batch size: 1000
+Epochs: 10
+Learning rate: 0.001000
+Input channels: 4
+Input dimensions: 28
+Conv kernel size: 4    
+NETWORK CONFIGURATION:
+0 -> SimpleCNN (
+  (conv1): Conv2d(4, 8, kernel_size=(4, 4), stride=(1, 1))
+  (pool): MaxPool2d (size=(3, 3), stride=(2, 2), dilation=(1, 1))
+  (fc1): Linear (1152 -> 6)
+)
+1 -> Conv2d(4, 8, kernel_size=(4, 4), stride=(1, 1))
+2 -> MaxPool2d (size=(3, 3), stride=(2, 2), dilation=(1, 1))
+3 -> Linear (1152 -> 6)
+Training loss at epoch 1 of 10, step 100 of 324: 1.5518
+Training loss at epoch 1 of 10, step 200 of 324: 1.4134
+Training loss at epoch 1 of 10, step 300 of 324: 1.1760
+Accuracy of network on test set at epoch 1 of 10: 48430/81000 = 59.79%
+Training loss at epoch 2 of 10, step 100 of 324: 1.0519
+Training loss at epoch 2 of 10, step 200 of 324: 0.9833
+Training loss at epoch 2 of 10, step 300 of 324: 0.9252
+Accuracy of network on test set at epoch 2 of 10: 48438/81000 = 59.80%
+Training loss at epoch 3 of 10, step 100 of 324: 0.8571
+Training loss at epoch 3 of 10, step 200 of 324: 0.8288
+Training loss at epoch 3 of 10, step 300 of 324: 0.7970
+Accuracy of network on test set at epoch 3 of 10: 49998/81000 = 61.73%
+Training loss at epoch 4 of 10, step 100 of 324: 0.7373
+Training loss at epoch 4 of 10, step 200 of 324: 0.7187
+Training loss at epoch 4 of 10, step 300 of 324: 0.6978
+Accuracy of network on test set at epoch 4 of 10: 60084/81000 = 74.18%
+Training loss at epoch 5 of 10, step 100 of 324: 0.6590
+Training loss at epoch 5 of 10, step 200 of 324: 0.6312
+Training loss at epoch 5 of 10, step 300 of 324: 0.5924
+Accuracy of network on test set at epoch 5 of 10: 64821/81000 = 80.03%
+Training loss at epoch 6 of 10, step 100 of 324: 0.6123
+Training loss at epoch 6 of 10, step 200 of 324: 0.5456
+Training loss at epoch 6 of 10, step 300 of 324: 0.5488
+Accuracy of network on test set at epoch 6 of 10: 67247/81000 = 83.02%
+Training loss at epoch 7 of 10, step 100 of 324: 0.5170
+Training loss at epoch 7 of 10, step 200 of 324: 0.4997
+Training loss at epoch 7 of 10, step 300 of 324: 0.5063
+Accuracy of network on test set at epoch 7 of 10: 68600/81000 = 84.69%
+Training loss at epoch 8 of 10, step 100 of 324: 0.4685
+Training loss at epoch 8 of 10, step 200 of 324: 0.4753
+Training loss at epoch 8 of 10, step 300 of 324: 0.4538
+Accuracy of network on test set at epoch 8 of 10: 69575/81000 = 85.90%
+Training loss at epoch 9 of 10, step 100 of 324: 0.4271
+Training loss at epoch 9 of 10, step 200 of 324: 0.4236
+Training loss at epoch 9 of 10, step 300 of 324: 0.4442
+Accuracy of network on test set at epoch 9 of 10: 70221/81000 = 86.69%
+Training loss at epoch 10 of 10, step 100 of 324: 0.4074
+Training loss at epoch 10 of 10, step 200 of 324: 0.3799
+Training loss at epoch 10 of 10, step 300 of 324: 0.3643
+Accuracy of network on test set at epoch 10 of 10: 70593/81000 = 87.15%
+Training time: 2770.8 seconds.
+Training loss plot saved in /Plots.
+Testing Accuracy plot saved in /Plots.
+             building  barren land  trees  grassland  road  water
+building         3220            4      0         43  1507      0
+barren land       341        17699      7       3100     9      0
+trees              27           55  13797       3622    47      0
+grassland           0          607    381       5809     1      0
+road                0            0      0          0     0      0
+water             126            2      0         22   506  30068
+Accuracy rate: 87.15%
+Misclassifcation rate: 12.85%
+Confusion matrix plot saved in /Plots.
+kernels plot saved in /Plots.
